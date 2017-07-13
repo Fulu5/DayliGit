@@ -5,4 +5,5 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 Test —noff stategy.
 Conflict fixed.
+On branch dev and test revert command.
 
